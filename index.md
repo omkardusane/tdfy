@@ -1,8 +1,8 @@
 # Intro:
-I am Omkar, a software engineer and tech leader; with a unique career path & self learning habits and I have a Happy career stage right now. 
+I am Omkar, a software engineer and tech leader; with a unique career path & self learning habits and I am at a happy stage right now. 
 In last 5 years, I have been told by many of my students that I was able to provide good perspective and guidance to them for the industry. 
 I have interviewed many aspiring developers for tech roles and nurtured over 30+ engineers to senior SDE levels. 
-I have spoken with many students, noticed them being misguided and lost in their early stages of professional careers. Hence, this community.
+I have spoken with many students, noticed them being misguided and lost in their early stages of professional life. Hence, this community.
 
 I say, Let's try to provide some **clarity, structure and guidance** to their future. 
 
@@ -11,7 +11,7 @@ Feel free to join and ask me anything :)
 My Profile: https://www.linkedin.com/in/omkardusane/
 
 My Vision & Motivation: As a nation, We are full of talented people with great potential in logical minds. 
-I envision a day when the ratio of successful engineers is bigger in 10 Lakh Engineers who graduate every year.
+I envision a day when the ratio of successful engineers is **bigger** in 10 Lakh Engineers who graduate every year. (stands at 8% to 10% roughly right now: [hypothesis](./articles/hypothesis1.md) )
 
   I believe it doesn't have to be this hard to be a good SDE and have a peaceful life.
   With traits in people listed below; I See a great future for our nation altogather.
@@ -29,7 +29,7 @@ A Community for students and entry level engineers to make it into Indian Startu
 
 ## Criteria for joining: (not strict, anyone may join)
 
-- You want to make a career in Software Development Landscape in India
+- You want to make a great career in Software Development Landscape in India.
 - Are graduating with a bachelor's degree in next 2 years or graduated 2 years ago.
 
 ### Group D: Developer Minds:
