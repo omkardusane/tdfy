@@ -56,10 +56,10 @@ A Community for students and entry level engineers to make it into Indian Startu
 // to be updated 
 
 ## How to Join:
-[Join](/join)
+[Join](/join.md)
 
 ## Planned Events
-[](./june24/events)
+[Events List](./june24/events.md)
 
 
 -- end of webpage ---
