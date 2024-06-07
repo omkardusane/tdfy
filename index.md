@@ -20,7 +20,7 @@ I envision a day when the ratio of successful engineers is **bigger** in 10 Lakh
     - Fantastic Creative minds who can support these startups as a teams!  
 
   Note: Computer Engineering tends to be a valuable profession & Tech Products tend to be valuable businesses;  
-  From long time ago I had wished to speak to th eyouth beyond my reach and understand their **challenges** & try to help them. 
+  From long time ago I had wished to speak to the youth beyond my reach and understand their **challenges** & try to help them. 
 
 
 # Tech Discussions for Youth
@@ -47,10 +47,10 @@ A Community for students and entry level engineers to make it into Indian Startu
 
 
 ## Purpose for Joining: 
-- I Wish to gain clarity on how to navigate the industry & **learn tech skills** on fundamental level.
-- I Wish to work on fun tech projects to gain experience, maybe also find internships through network.
-- I Wish to discuss tech with my peers and some seniors to gain insights about the industry.
-- I With to contribute to advancement of our nation Bhaarat by having a good career
+- Intend to gain clarity on how to navigate the industry & **learn tech skills** on a fundamental level.
+- Intend to work on fun tech projects to gain experience, maybe also find internships through network.
+- Intend to discuss tech with peers and some seniors to gain insights about the industry.
+- Intend to contribute to advancement of our nation Bhaarat by having a good career & adding ot the economy.
 
 ## more info 
 // to be updated 
