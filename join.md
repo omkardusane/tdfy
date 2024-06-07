@@ -9,6 +9,13 @@ Step 1:
 
 Step 2:
 - Join Our Community on Discord: https://discord.gg/Rck7MRQZ36
+- Write a short introduction about yourself in the discord channel "Introductions"
+```
+  format
+   Hi, I am {name}, I am a {profession/student} from {university & town}, I have grown up in {town}.
+   My primary skills are around {a,b,c,d} and I am learning {a,b,c,d}
+   I wish to achieve/bedome {xyz}  
+```
 
 
 ## notes:
